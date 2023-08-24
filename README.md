@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Osman Kara
 - 👀 I’m interested in working on projects
 - 🌱 I'm currently learning Computer sciences
-- 💞️ I’m looking to collaborate on many projectes
+- 💞️ I’m learning programing languges :)
 - 📫 You can send me a message
 - ✨ Can you add star to me 
 
