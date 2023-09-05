@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Osman Kara
+- 👋 Hi, I’m Osman
 - 👀 I’m interested in working on projects
 - 🌱 I'm currently learning Computer sciences
 - 💞️ I’m learning programing languges :)
